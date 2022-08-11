@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+		<Authors>Delnorte holdings inc.</Authors>
+		<Product>Exports a backend abstractions and shared declarations for Delnorte Terravision</Product>
+		<Version>1.0.0.2</Version>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Compile Remove="Models\Native.ignore\**" />
+		<EmbeddedResource Remove="Models\Native.ignore\**" />
+		<None Remove="Models\Native.ignore\**" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Compile Remove="Models\ContentPart.cs" />
+		<Compile Remove="Models\DocumentRef.cs" />
+		<Compile Remove="Models\Permission.cs" />
+		<Compile Remove="Primitives\ContentRef2.cs" />
+		<Compile Remove="Primitives\Guid2.cs" />
+		<Compile Remove="Primitives\NativeJsonConverter.cs" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Delnorte.Shared.Contracts" Version="1.0.0.253" />
+		<PackageReference Include="System.Runtime" Version="4.3.1" />
+	</ItemGroup>
+
+	<Import Project="$(DELNORTE_SDK)\BuildTasks\DL.BuildTasks.targets" />
+</Project>

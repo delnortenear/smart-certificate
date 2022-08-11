@@ -1,0 +1,115 @@
+{
+    "description": "some description here",
+    "image": "https://ipfs.io/ipfs/QmTre2stThfQ7wqWCQXKyQAkUQE9iTmWKQmyyBY341oHmV",
+    "name": "Gregory lands in Valley",
+    "attributes": [
+      {
+        "trait_type": "type",
+        "value": "land"
+      },
+      {
+        "trait_type": "classifier",
+        "value": "Land area for General puproses"
+      },
+      {
+        "trait_type": "payload-area",
+        "value": "213021"
+      },
+      {
+        "trait_type": "construct-area",
+        "value": "211000"
+      },
+      {
+        "trait_type": "address",
+        "value": "centro, Honduras, Tigusigalpa, MDS"
+      },
+      {
+        "trait_type": "zone-ref",
+        "value": "Guarina De Lusa Elpario"
+      },
+      {
+        "trait_type": "agreeculture-info",
+        "value": "Agreeculture description"
+      },
+      {
+        "trait_type": "land-development-info",
+        "value": "Land development"
+      },
+      {
+        "trait_type": "terrian-type",
+        "value": "lands paces and sands"
+      },
+      {
+        "trait_type": "market-currency",
+        "value": "USDC"
+      },
+      {
+        "trait_type": "market-price",
+        "value": "310000"
+      },
+      {
+        "trait_type": "basic-labor-access",
+        "value": "yes"
+      },
+      {
+        "trait_type": "skilled-labor-access",
+        "value": "no"
+      },
+      {
+        "trait_type": "electricity-access",
+        "value": "yes"
+      },
+      {
+        "trait_type": "running-water-access",
+        "value": "yes"
+      },
+      {
+        "trait_type": "mainroad-access",
+        "value": "yes"
+      },
+      {
+        "trait_type": "cell-access",
+        "value": "yes"
+      },
+      {
+        "trait_type": "internet-access",
+        "value": "yes"
+      },
+      {
+        "trait_type": "sewerage-access",
+        "value": "no"
+      },
+      {
+        "trait_type": "parking-access",
+        "value": "yes"
+      },
+      {
+        "trait_type": "underground-access",
+        "value": "no"
+      },
+      {
+        "trait_type": "distance-measure",
+        "value": "Miles"
+      },
+      {
+        "trait_type": "distance-to-airport",
+        "value": "102"
+      },
+      {
+        "trait_type": "distance-to-maincity",
+        "value": "2"
+      },
+      {
+        "trait_type": "distance-to-port",
+        "value": "320"
+      },
+      {
+        "trait_type": "distance-to-mainroad",
+        "value": "1"
+      },
+      {
+        "trait_type": "safety-level",
+        "value": "11"
+      }
+    ]
+  }

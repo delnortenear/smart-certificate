@@ -1,0 +1,180 @@
+{
+    "c-type": "certType",
+    "dealSize": 120000.0,
+    "price": 130000.0,
+    "currency": "usdc",
+    "status": "active",
+    "s-date": "2022-08-08T20:49:35.9425995Z",
+    "tran-date": "2022-08-08T20:49:35.9425999Z",
+    "signature": "none:34232342AAFFGFFFAA223423",
+    "ownerid": "fbea0e6e-4318-4f9e-ae7b-68b6f5a1169f",
+    "caseid": "00000000-0000-0000-0000-000000000000",
+    "content-ref": {
+      "key": {
+        "Hi": "4a2734e4-07cc-44c2-843d-4a14e77f58e0",
+        "Lo": "fbea0e6e-4318-4f9e-ae7b-68b6f5a1169f"
+      },
+      "rev": 0,
+      "mimetype": 113,
+      "serviceid": 1,
+      "created": "2022-08-08T20:49:35.9377072Z",
+      "permissions": null,
+      "part-size": 307200,
+      "parts": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "title": "invoice_Chudinov_2021_06.pdf",
+      "hash": "Qp+tkg=="
+    },
+    "private-fields": {
+      "manicipality-ref": {
+        "Hi": "00000000-0000-0000-0000-000000000000",
+        "Lo": "00000000-0000-0000-0000-000000000000"
+      },
+      "address": {
+        "country": "Honduras",
+        "city": "Tigusigalpa",
+        "line": "Urbana lara",
+        "index": "33432423",
+        "state": "MDS",
+        "district": "centro"
+      },
+      "location": {
+        "lat": 343242.0,
+        "long": 23434343.00004343,
+        "lvl": 100.0
+      },
+      "construct-area": 211000.0,
+      "payload-area": 213021.0,
+      "total-area": {
+        "angle": 0.001,
+        "points": [
+          {
+            "lat": 0.0,
+            "long": 0.0,
+            "lvl": 0.0
+          },
+          {
+            "lat": 0.0,
+            "long": 0.0,
+            "lvl": 0.0
+          },
+          {
+            "lat": 0.0,
+            "long": 0.0,
+            "lvl": 0.0
+          }
+        ],
+        "area": 213021.0
+      },
+      "ip-parcelid": "AP-3423222222-111",
+      "cnr-mapid": "324324343534111",
+      "ip-registryid": "1232-1212-3455-9990",
+      "key": {
+        "id": "3945f178-08db-446e-a968-03d67a212059",
+        "rev": 0
+      },
+      "name": "Gregory lands in Valley",
+      "issued-id": "REC.12324234234242",
+      "issued-date": "2021-05-21T19:09:35.9391103Z",
+      "type": 4,
+      "classifier": 22
+    },
+    "public-fields": {
+      "amnesties-flags": 125,
+      "laborFlags": 1,
+      "zone-ref": {
+        "id": "e725b3e4-1214-48de-93a0-267e3eab573b",
+        "rev": 0,
+        "title": "Guarina De Lusa Elpario"
+      },
+      "agreeculture-info": {
+        "id": "6cf4f0f9-66d5-498a-b4c7-30a46a970764",
+        "rev": 0,
+        "title": "Agreeculture description"
+      },
+      "land-development-info": {
+        "id": "00d1e461-1b56-4ad5-95cf-7ec0299253b0",
+        "rev": 0,
+        "title": "Land development"
+      },
+      "terrian-type": {
+        "id": "9d886c72-ef61-4635-a0c3-6774256a9891",
+        "rev": 0,
+        "title": "lands paces and sands"
+      },
+      "climatic-zone": {
+        "id": "470f4d78-1bdd-4c78-bb4c-313cd60fac3f",
+        "rev": 0,
+        "title": "Middeterian clima"
+      },
+      "departament": {
+        "id": "5d672381-3e30-425c-a482-1cc321794306",
+        "rev": 0,
+        "title": "INSTITUTO OF LANDS and AGREECULTURE"
+      },
+      "municipality-account": {
+        "id": "38452976-b8a8-488c-ac87-82377d74a4d3",
+        "rev": 0,
+        "title": "3242423-343-14"
+      },
+      "market-currency": "USDC",
+      "market-price": 310000.0,
+      "basic-labor-access": true,
+      "skilled-labor-access": false,
+      "electricity-access": true,
+      "running-water-access": true,
+      "mainroad-access": true,
+      "cell-access": true,
+      "internet-access": true,
+      "sewerage-access": false,
+      "parking-access": true,
+      "underground-access": false,
+      "distance-measure": 1,
+      "distance-to-airport": 102,
+      "distance-to-maincity": 2,
+      "distance-to-port": 320,
+      "distance-to-mainroad": 1,
+      "safety-level": 11,
+      "taxes-list": [
+        {
+          "id": "d8248f47-2339-4478-86d6-05b67ccd359e",
+          "rev": 0,
+          "title": "TaxID_1"
+        },
+        {
+          "id": "07eba1f8-3390-46ba-85d4-28394ce19f2a",
+          "rev": 0,
+          "title": "TaxID_2"
+        }
+      ],
+      "sidewalk-state": {
+        "id": "31974e16-bafb-4696-a63c-957dffe4186b",
+        "rev": 0,
+        "title": "SideWalk Gtg"
+      },
+      "measurements": null,
+      "description": "some description here",
+      "certificate-ref": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "rev": 5249641904186803325
+      },
+      "owner-id": {
+        "id": "acec3002-d3da-45f3-ac60-44c99541b47d",
+        "rev": 0,
+        "title": "Passport"
+      },
+      "owner-cellnumber": "+1 213-23-123-11",
+      "main-picture": "https://csp.delnorte.space/images/3432432234"
+    },
+    "owner-ref": {
+      "type": "profile",
+      "url": "profile/fbea0e6e43184f9eae7b68b6f5a1169f",
+      "title": "Yurii Chudinov",
+      "data": {}
+    },
+  }
